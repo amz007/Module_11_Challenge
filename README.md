@@ -8,5 +8,5 @@ This new assignment consists of two technical products.
 - part_1_mars_news Jupyter Notebook file; Deliverable 1
 - part_2_mars_weather Jupyter Notebook file; Deliverable 2
 
-#Resources
+# Resources
 Chat GPT, Stack Overflow and previous assignments were used to help me troubleshoot problems associated with importing tables and structuring syntax appropriately.
