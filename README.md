@@ -1,22 +1,12 @@
 # Module_11_Challenge Overview
 This new assignment consists of two technical products.
-- Deliverable 1: Scrape titles and preview text from Mars news articles.
-- Deliverable 2: Scrape and analyze Mars weather data, which exists in a table.
+- Deliverable 1: Scrape titles and preview text from Mars news articles; A Jupyter notebook containing code that scrapes the Mars news titles and preview text.
+- Deliverable 2: Scrape and analyze Mars weather data, which exists in a table; A Jupyter notebook containing code that scrapes the Mars weather data and that cleans, visualizes, and analyzes that data.
   
-# File Structure
-Module_11_Challenge/
-├── Output
-├── └── mars_temperature_data.csv
-├── part_1_mars_news.ipynb
-├── part_2_mars_weather.ipynb
-└── README.md
+# Project Structure
+- Output: mars_temperature_data.csv
+- part_1_mars_news Jupyter Notebook file; Deliverable 1
+- part_2_mars_weather Jupyter Notebook file; Deliverable 2
 
-
-My Project
-  ├── README.md
-  ├── src
-  │   ├── main.js
-  │   └── utils.js
-  ├── dist
-  │   └── bundle.js
-  └── package.json
+#Resources
+Chat GPT, Stack Overflow and previous assignments were used to help me troubleshoot problems associated with importing tables and structuring syntax appropriately.
