@@ -12,12 +12,11 @@ Module_11_Challenge/
 └── README.md
 
 
-### My Project
-
-* README.md
-* src
-	+ main.js
-	+ utils.js
-* dist
-	+ bundle.js
-* package.json
+My Project
+  ├── README.md
+  ├── src
+  │   ├── main.js
+  │   └── utils.js
+  ├── dist
+  │   └── bundle.js
+  └── package.json
