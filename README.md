@@ -11,10 +11,13 @@ Module_11_Challenge/
 ├── part_2_mars_weather.ipynb
 └── README.md
 
-web-scraping-challenge/
-├── Output
-├── ├── mars_news.json
-├── └── mars_temperature_data.csv
-├── part_1_mars_news.ipynb
-├── part_2_mars_weather.ipynb
-└── README.md
+
+### My Project
+
+* README.md
+* src
+	+ main.js
+	+ utils.js
+* dist
+	+ bundle.js
+* package.json
